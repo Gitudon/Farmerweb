@@ -1,0 +1,27 @@
+フォルダー パスの一覧:  ボリューム Windows10_Pro
+ボリューム シリアル番号は 9DAF-A6B0 です
+C:.
+|   .env
+|   docker-compose.yml
+|   README.md
+|   tree.txt
+|   
++---.docker
+|       Dockerfile
+|       
++---auth
++---crud
++---images
++---pages
+|       index.html
+|       
++---plans
+|       plan.png
+|       plans.md
+|       references.md
+|       
++---src
+|       app.py
+|       requirements.txt
+|       
+\---static
