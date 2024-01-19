@@ -1,0 +1,39 @@
+* { 
+    margin: 0px; 
+    padding: 0px; 
+}
+html{
+    min-height: 100%;
+    position: relative;
+}
+body {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 100px;
+}
+header{
+    font-family: 游明朝;
+    text-align: center;
+    background-color:#89c7de;
+    margin-top: 0;
+    width: 100%;
+}
+footer{
+    background-color:white;
+    color: #fff;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+.footimg{
+    margin-top: 5px;
+}
+.ichiran{
+    margin: 10px; 
+    padding: 0px;
+}
+.ichiran>ul{
+    padding: 20px;
+}
